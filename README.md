@@ -28,6 +28,9 @@ Kullanıcılar iş emri numarasını girerek kumaş, nakış, aksesuar, numune k
 
 ---
 
+<img width="1312" height="729" alt="Adsız tasarım (3)" src="https://github.com/user-attachments/assets/eb53fc88-5586-40db-8439-40cb5e143a88" />
+
+
 ## Teknoloji Yığını
 
 ```
