@@ -69,3 +69,4 @@ frontend/
 - Fotoğraf, teknik çizim ve belge yükleme — ERP kaydına anlık eşleştirme
 - Mevcut ERP sistemini değiştirmeden üzerine katman olarak çalışır
 - Doğrudan ERP veritabanı bağlantısı — gerçek zamanlı veri
+
