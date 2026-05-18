@@ -70,3 +70,4 @@ frontend/
 - Mevcut ERP sistemini değiştirmeden üzerine katman olarak çalışır
 - Doğrudan ERP veritabanı bağlantısı — gerçek zamanlı veri
 
+
